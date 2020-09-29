@@ -23,4 +23,8 @@ public class Calculator
     public Integer sum(Integer x, Integer y){
 	    return x + y;
     }
+
+    public Integer diff(Integer x, Integer y){
+	    return x - y;
+    }
 }
