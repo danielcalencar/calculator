@@ -22,7 +22,7 @@ public class Calculator
 
     public Integer sum(Integer x, Integer y){
 	    //perform the sum
-	    return x + y;
+	    return x * y;
     }
 
     public Integer diff(Integer x, Integer y){
